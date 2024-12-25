@@ -10,7 +10,7 @@ public class Battleship extends SeaObject {
         super(66,26,270,124,20);
         life = 5;
         System.out.println("git");
-        System.out.println("git2");
+
 
     }
 
