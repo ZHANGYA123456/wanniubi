@@ -11,6 +11,7 @@ public class Battleship extends SeaObject {
         life = 5;
         System.out.println("git");
         System.out.println("git2");
+        System.out.println("git3");
     }
 
     /** 重写move()移动 */
