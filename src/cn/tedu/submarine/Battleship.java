@@ -9,6 +9,7 @@ public class Battleship extends SeaObject {
     public Battleship(){
         super(66,26,270,124,20);
         life = 5;
+        System.out.println("git");
     }
 
     /** 重写move()移动 */
